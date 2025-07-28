@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantics of my webpage</title>
+</head>
+
+<body>
+    <header>
+        <h1>Navigational Links</h1>
+        <nav>
+            <ul>
+                <li> <a href="#home.html">Home</a> </li>
+                <li> <a href="#about us.html">About us</a> </li>
+                <li> <a href="#contact us.html">contact us</a> </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <article>
+                <h2>About us</h2>
+                <p>
+                    At Waterford Educate Together National
+                    School, we foster an inclusive learning
+
+                    environment where every child thrives. Our
+                    school promotes equality, respect, and
+                    diversity.
+                </p>
+            </article>
+        </section>
+
+
+         <section>
+            <article>
+                <h2>About us</h2>
+                <p>
+                    At Waterford Educate Together National
+                    School, we foster an inclusive learning
+
+                    environment where every child thrives. Our
+                    school promotes equality, respect, and
+                    diversity.
+                </p>
+            </article>
+        </section>
+
+
+         <section>
+            <article>
+                <h2>About us</h2>
+                <p>
+                    At Waterford Educate Together National
+                    School, we foster an inclusive learning
+
+                    environment where every child thrives. Our
+                    school promotes equality, respect, and
+                    diversity.
+                </p>
+            </article>
+        </section>
+    </main>
+
+
+    <footer>
+        Copyright ©2025 Waterford Educate Together National School. Education Zone | Developed By Rara Themes. Powered by WordPress.
+    </footer>
+
+</body>
+
+</html>
